@@ -34,3 +34,6 @@ d3 <- tmp_d %>%
 d3 %>% dim %>% print
 print(Sys.time() - t0)
 
+
+
+
